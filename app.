@@ -1,0 +1,12 @@
+
+│── src/
+│   ├── main/
+│   │   ├── java/com/example/demo/
+│   │   │   ├── DemoApplication.java
+│   │   │   ├── controller/HelloController.java
+│   │   │   ├── service/HelloService.java
+│   │   ├── resources/
+│   │   │   ├── application.properties
+│   ├── test/
+│       ├── java/com/example/demo/
+│           ├── HelloControllerTest.java
